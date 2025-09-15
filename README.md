@@ -34,14 +34,6 @@ Additional breakdowns include:
 - 🌍 **Average Overall Rating by Country** – Differences in passenger satisfaction by reviewer’s country.  
 - ✈️ **Average Overall Rating by Aircraft Type** – Comparing aircraft groups and their service experiences.  
 
-Interactive filters and controls on the dashboard allow users to explore reviews in detail:  
-- Choose a metric: **Overall Rating, Cabin Staff Service, Entertainment, Seat Comfort, Value, Ground Service, Food**  
-- **Month of Date Slider** – Focus on specific travel periods  
-- **Traveller Type Selection** – Business, Couple Leisure, Solo, Family, etc.  
-- **Seat Type Selection** – Economy, Premium Economy, Business, First  
-- **Aircraft Group Filter** – Narrow ratings to specific fleets  
-- **Continent Filter** – Compare regional differences in passenger reviews  
-
 ---
 
 ## 🔗 Interactive Dashboard
@@ -56,4 +48,4 @@ Interactive filters and controls on the dashboard allow users to explore reviews
 - **Tableau** → for interactive data visualization  
 - **Dataset** → A compiled collection of British Airways passenger reviews.  
 
-⚠️ Note: This dataset was originally sourced earlier in the year from an online repository of airline reviews. Unfortunately, the original link is no longer active, so I am unable to provide a direct download. The data has been preserved locally for this analysis.  
+⚠️ Note: This dataset was originally sourced earlier in the year from an online repository of airline reviews. Unfortunately, the original link is no longer active, so I am unable to provide a direct download.
