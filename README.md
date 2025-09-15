@@ -2,19 +2,16 @@
 
 ## 📌 Project Overview
 
-This project analyzes **British Airways customer reviews** through a Tableau dashboard.  
-The goal was to explore passenger satisfaction and uncover trends across different aspects of the flight experience — from cabin staff service to food quality and seat comfort.
+This project analyzes **British Airways customer reviews** through a Tableau dashboard. The goal was to explore passenger satisfaction and uncover trends across different aspects of the flight experience — from cabin staff service to food quality and seat comfort.
 
 ---
 
 ## 🎯 Why I Built This Dashboard
 
 Earlier this year, I flew with **British Airways to Thailand** for vacation.  
-While the journey itself was memorable, I noticed that the **cabin service and food quality weren’t the greatest**.  
-This made me curious: was my experience unusual, or do other passengers feel the same way?  
+While the journey itself was memorable, I noticed that the **cabin service and food quality weren’t the greatest**. This made me curious: was my experience unusual, or do other passengers feel the same way?  
 
-To find out, I built a Tableau dashboard analyzing thousands of British Airways reviews.  
-By comparing different service categories and overall ratings, I was able to see how my personal experience aligned with broader customer sentiment.  
+To find out, I built a Tableau dashboard analyzing thousands of British Airways reviews. By comparing different service categories and overall ratings, I was able to see how my personal experience aligned with broader customer sentiment.  
 
 ---
 
