@@ -8,8 +8,7 @@ This project analyzes **British Airways customer reviews** through a Tableau das
 
 ## 🎯 Why I Built This Dashboard
 
-Earlier this year, I flew with **British Airways to Thailand** for vacation.  
-While the journey itself was memorable, I noticed that the **cabin service and food quality weren’t the greatest**. This made me curious: was my experience unusual, or do other passengers feel the same way?  
+Earlier this year, I flew with **British Airways to Thailand** for vacation. While the journey itself was memorable, I noticed that the **cabin service and food quality weren’t the greatest**. This made me curious: was my experience unusual, or do other passengers feel the same way?  
 
 To find out, I built a Tableau dashboard analyzing thousands of British Airways reviews. By comparing different service categories and overall ratings, I was able to see how my personal experience aligned with broader customer sentiment.  
 
